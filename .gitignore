@@ -1,0 +1,5 @@
+data/
+*.csv
+plotted_graphs
+analysis_all_backup.ipynb
+project_description.txt
